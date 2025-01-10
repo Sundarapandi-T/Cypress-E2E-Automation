@@ -1,7 +1,6 @@
 {
   "name": "learn-cypress",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,14 +8,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^13.13.2",
     "masonry-layout": "^4.2.2"
   },
   "devDependencies": {
     "@4tw/cypress-drag-drop": "^2.2.5",
+    "cypress": "^13.17.0",
     "cypress-file-upload": "^5.0.8",
     "cypress-iframe": "^1.0.1",
     "cypress-xpath": "^2.0.1",
     "mocha": "^10.7.3"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }

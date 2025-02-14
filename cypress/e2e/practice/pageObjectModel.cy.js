@@ -1,4 +1,4 @@
-import Login from "../page objects/orangehrm_login";
+import Login from "../../page objects/orangehrm_login";
 
 describe("POM", () => {
   it("page objects", () => {
